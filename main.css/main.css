@@ -1,0 +1,61 @@
+
+body{
+    background: chartreuse;
+
+}
+ul{list-style-type: disc;
+ margin:16;
+ padding:10;
+background-color:white;
+}
+li{
+float: center;
+}
+li a {
+display:block ;
+color: black;
+text-align:center;
+padding: 8px 0 8px 16px;
+}
+li a:hover:not(.active){background-color: turquoise;
+}
+.active{ background-color: blue;
+}
+h3{
+    color: blue;
+}
+
+button{
+    color:black;
+}
+
+a {
+    color: red;
+}
+li a:hover {
+    color: black;
+    transition: all 0.5s ease;
+}
+
+button{
+    background: red;
+}
+h5{
+    color:purple;
+}
+
+h1{
+    background:red;
+    color: #fff;
+}
+
+footer{
+    background: orangered;
+    color: #fff;
+}
+h4{text-align: left;
+}
+button {text-align: left;}
+a button{float: left;}
+ul {text-align: left;}
+

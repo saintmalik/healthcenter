@@ -1,0 +1,33 @@
+body{
+	background-color:brown;
+}
+head{
+	color:green;
+	background-color: red;
+}
+footer{
+	color:blue;
+	background-color: white;
+}
+p{
+color: purple;
+background-color: white;
+}
+h2{
+	color: black;
+	background-color: white;
+}
+p{
+	color: red;
+
+}
+fieldset{
+	color:pink;
+}
+a{
+	color: green;
+	background-color: white;
+}
+h1{
+	color:red;
+}
